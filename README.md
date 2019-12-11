@@ -1,2 +1,3 @@
-# Nguy-n-Th-Thu
+# Nguyen Thu
 start git
+Tai lieu
